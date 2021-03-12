@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Le Playbook",
-    "currentPage": "publier-du-contenu.html",
+    "currentPage": "acceuil.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -23,7 +23,7 @@
         "display7Size": 1.2,
         "display4Font": "Lato",
         "display4Size": 1.1,
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isGhostButtonBorder": true,
         "underlinedLinks": true,
         "isAnimatedOnScroll": false,
