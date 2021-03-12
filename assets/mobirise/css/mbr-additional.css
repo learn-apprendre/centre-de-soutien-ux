@@ -1071,25 +1071,32 @@ a {
   display: flex;
   flex-wrap: wrap;
 }
-.cid-smaQRaGAnI {
+.cid-sraQ2fgZTj {
   padding-top: 6rem;
-  padding-bottom: 3rem;
-  background-image: url("../../../assets/images/mbr-3-1920x1135.jpeg");
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sraQ2fgZTj .row {
+  flex-direction: row-reverse;
+}
+.cid-sraQ2fgZTj .row {
+  align-items: center;
 }
 @media (max-width: 991px) {
-  .cid-smaQRaGAnI .mbr-section-title,
-  .cid-smaQRaGAnI .mbr-section-subtitle,
-  .cid-smaQRaGAnI .mbr-section-btn,
-  .cid-smaQRaGAnI .mbr-text {
-    text-align: center;
+  .cid-sraQ2fgZTj .image-wrapper {
+    padding: 1rem;
   }
 }
-.cid-smaQRaGAnI .mbr-section-title {
-  color: #ffffff;
+@media (min-width: 992px) {
+  .cid-sraQ2fgZTj .text-wrapper {
+    padding: 0 2rem;
+  }
 }
-.cid-smaQRaGAnI .mbr-text,
-.cid-smaQRaGAnI .mbr-section-btn {
-  color: #ffffff;
+.cid-sraQ2fgZTj .mbr-text,
+.cid-sraQ2fgZTj .mbr-section-btn {
+  text-align: left;
+}
+.cid-sraQ2fgZTj .mbr-section-title {
   text-align: left;
 }
 .cid-smsjL8MRIj {
@@ -1602,25 +1609,32 @@ a {
   display: flex;
   flex-wrap: wrap;
 }
-.cid-snZoWYjZRk {
+.cid-sraUGd3nQZ {
   padding-top: 6rem;
-  padding-bottom: 3rem;
-  background-image: url("../../../assets/images/mbr-1920x1080.jpeg");
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sraUGd3nQZ .row {
+  flex-direction: row-reverse;
+}
+.cid-sraUGd3nQZ .row {
+  align-items: center;
 }
 @media (max-width: 991px) {
-  .cid-snZoWYjZRk .mbr-section-title,
-  .cid-snZoWYjZRk .mbr-section-subtitle,
-  .cid-snZoWYjZRk .mbr-section-btn,
-  .cid-snZoWYjZRk .mbr-text {
-    text-align: center;
+  .cid-sraUGd3nQZ .image-wrapper {
+    padding: 1rem;
   }
 }
-.cid-snZoWYjZRk .mbr-section-title {
-  color: #ffffff;
+@media (min-width: 992px) {
+  .cid-sraUGd3nQZ .text-wrapper {
+    padding: 0 2rem;
+  }
 }
-.cid-snZoWYjZRk .mbr-text,
-.cid-snZoWYjZRk .mbr-section-btn {
-  color: #ffffff;
+.cid-sraUGd3nQZ .mbr-text,
+.cid-sraUGd3nQZ .mbr-section-btn {
+  text-align: left;
+}
+.cid-sraUGd3nQZ .mbr-section-title {
   text-align: left;
 }
 .cid-snZpjmZ67T {
@@ -2064,25 +2078,32 @@ a {
   display: flex;
   flex-wrap: wrap;
 }
-.cid-so48oulmMh {
+.cid-sraYUFT9jW {
   padding-top: 6rem;
-  padding-bottom: 3rem;
-  background-image: url("../../../assets/images/mbr-1920x1080.jpeg");
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sraYUFT9jW .row {
+  flex-direction: row-reverse;
+}
+.cid-sraYUFT9jW .row {
+  align-items: center;
 }
 @media (max-width: 991px) {
-  .cid-so48oulmMh .mbr-section-title,
-  .cid-so48oulmMh .mbr-section-subtitle,
-  .cid-so48oulmMh .mbr-section-btn,
-  .cid-so48oulmMh .mbr-text {
-    text-align: center;
+  .cid-sraYUFT9jW .image-wrapper {
+    padding: 1rem;
   }
 }
-.cid-so48oulmMh .mbr-section-title {
-  color: #ffffff;
+@media (min-width: 992px) {
+  .cid-sraYUFT9jW .text-wrapper {
+    padding: 0 2rem;
+  }
 }
-.cid-so48oulmMh .mbr-text,
-.cid-so48oulmMh .mbr-section-btn {
-  color: #ffffff;
+.cid-sraYUFT9jW .mbr-text,
+.cid-sraYUFT9jW .mbr-section-btn {
+  text-align: left;
+}
+.cid-sraYUFT9jW .mbr-section-title {
   text-align: left;
 }
 .cid-so48qXUOK6 {
@@ -2861,25 +2882,32 @@ a {
   display: flex;
   flex-wrap: wrap;
 }
-.cid-so522ZzyHv {
+.cid-sraZ7yVWcd {
   padding-top: 6rem;
-  padding-bottom: 3rem;
-  background-image: url("../../../assets/images/mbr-1920x1080.jpeg");
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sraZ7yVWcd .row {
+  flex-direction: row-reverse;
+}
+.cid-sraZ7yVWcd .row {
+  align-items: center;
 }
 @media (max-width: 991px) {
-  .cid-so522ZzyHv .mbr-section-title,
-  .cid-so522ZzyHv .mbr-section-subtitle,
-  .cid-so522ZzyHv .mbr-section-btn,
-  .cid-so522ZzyHv .mbr-text {
-    text-align: center;
+  .cid-sraZ7yVWcd .image-wrapper {
+    padding: 1rem;
   }
 }
-.cid-so522ZzyHv .mbr-section-title {
-  color: #ffffff;
+@media (min-width: 992px) {
+  .cid-sraZ7yVWcd .text-wrapper {
+    padding: 0 2rem;
+  }
 }
-.cid-so522ZzyHv .mbr-text,
-.cid-so522ZzyHv .mbr-section-btn {
-  color: #ffffff;
+.cid-sraZ7yVWcd .mbr-text,
+.cid-sraZ7yVWcd .mbr-section-btn {
+  text-align: left;
+}
+.cid-sraZ7yVWcd .mbr-section-title {
   text-align: left;
 }
 .cid-so52nLyZQB {
